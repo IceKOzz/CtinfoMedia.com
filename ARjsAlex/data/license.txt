@@ -1,0 +1,11 @@
+Model Information:
+* title:	Multiversus Iron Giant
+* source:	https://sketchfab.com/3d-models/multiversus-iron-giant-ba66f11b20b441ed8f2d4fdb5680f3d9
+* author:	peterthepunk123456 (https://sketchfab.com/peterthepunk123456)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Multiversus Iron Giant" (https://sketchfab.com/3d-models/multiversus-iron-giant-ba66f11b20b441ed8f2d4fdb5680f3d9) by peterthepunk123456 (https://sketchfab.com/peterthepunk123456) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
